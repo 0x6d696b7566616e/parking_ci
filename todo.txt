@@ -1,0 +1,7 @@
+- satu motor satu pemilik
+
+data yang diprlukan/registrasi
+
+- stnk
+- foto motor
+- foto orang (ktp)
